@@ -1,0 +1,4 @@
+moto;;honda;suzuky;yamaha
+
+auto;;fiat;chevrolet;zanella
+camioneta;;ford;renault

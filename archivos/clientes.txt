@@ -1,0 +1,5 @@
+lucas;rampoldi;luas@cco.com;512112;512112;38521924;1414;moto;honda;tornado;dsf;caba;-;-
+lucas;rampoldi;lucas@rec.com;4654;4654;38521922;1414;moto;tornado;honda;sdfsdf;caba;-LunesMartesMiercolesJuevesViernes;-
+lucas;rampoldi;luas@rec.com;45454;45454;38521741;1422;moto;suzuky;swift;45454;caba;MartesJuevesLunes;CamionetaMoto
+lucas;rampoldi;lucas@re.com;5454;5454;38521789;1422;moto;tornado;honda;dfsdf;caba; MartesJueves; BicicletaCamioneta
+lucas;rampoldi;lucas@re.com;324234;324234;38521990;2213;auto;fiat;duna;dsfsdf;bsas;-;-
